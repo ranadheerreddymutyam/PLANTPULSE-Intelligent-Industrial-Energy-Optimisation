@@ -3,8 +3,6 @@
 [![Challenge Track](https://img.shields.io/badge/Challenge_Track-L'Or%C3%A9al_Sustainability_Challenge_(Option_03)-15803d.svg)](https://www.loreal.com)
 [![Challenge Target](https://img.shields.io/badge/Target-Avoidable_Idle_Electricity-0284c7.svg)](#1-executive-summary--the-core-engineering-thesis)
 [![Methodology](https://img.shields.io/badge/Methodology-100%25_Deterministic_Physical_Rules-0f766e.svg)](#4-centralized-engineering-calculation-layer)
-[![Project Status](https://img.shields.io/badge/Status-PROPOSED_CONCEPT_%C2%B7_DESIGN_STAGE_%C2%B7_NO_RESULTS_CLAIMED_YET-amber-600.svg)](#2-project-status--provenance-honesty)
-[![Tests](https://img.shields.io/badge/Pytest-29%2F29_Passed_(100%25)-emerald-600.svg)](#10-testing--verification-suite)
 [![Frontend](https://img.shields.io/badge/UI-React_18_%7C_TypeScript_%7C_Tailwind-3b82f6.svg)](#7-user-interface-walkthrough--the-10-dedicated-pages)
 
 ---
